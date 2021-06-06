@@ -1,0 +1,3 @@
+root=/dev/sda1
+root_type=ext4
+hooks="uncompress-mod eudev"
